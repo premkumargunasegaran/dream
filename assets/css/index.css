@@ -370,6 +370,8 @@
 .future-section .user {
   color: #6b7385;
   font-size: 16px;
+  display: flex;
+  align-items: center;
 }
 
 .future-section .user img {
